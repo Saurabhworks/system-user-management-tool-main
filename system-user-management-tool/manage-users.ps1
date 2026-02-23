@@ -1,8 +1,8 @@
 #!/usr/bin/pwsh
 # Linux-compatible PowerShell user management script
 
-$csvPath = "/home/vinit-ranjan/Developer/Automating-User-Management/users.csv"
-$logFile = "/home/vinit-ranjan/Developer/Automating-User-Management/user-management.log"
+$csvPath = "E:\System-user-management\system-user-management-tool\users.csv"
+$logFile = "E:\System-user-management\system-user-management-tool\user-management.log"
 
 # Logging function
 function Log-Action {
